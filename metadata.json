@@ -1,0 +1,5 @@
+{
+  "name": "My Tasks Manager",
+  "description": "A Kanban-style task management application with categorized columns and project-based task tracking.",
+  "requestFramePermissions": []
+}
